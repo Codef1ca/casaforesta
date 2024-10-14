@@ -1,5 +1,1 @@
-const CHUNK_PUBLIC_PATH = "server/pages/_document.js";
-const runtime = require("../chunks/ssr/[turbopack]_runtime.js");
-runtime.loadChunk("server/chunks/ssr/[root of the server]__cd816b._.js");
-runtime.loadChunk("server/chunks/ssr/[next]_internal_font_google_84d48c._.css");
-module.exports = runtime.getOrInstantiateRuntimeModule("[project]/pages/_document.tsx [ssr] (ecmascript)", CHUNK_PUBLIC_PATH).exports;
+"use strict";(()=>{var e={};e.id=660,e.ids=[660],e.modules={7645:(e,r,s)=>{s.a(e,async(e,t)=>{try{s.r(r),s.d(r,{default:()=>x});var a=s(997),i=s(6859),n=s(6593),c=s(4377),d=s.n(c),u=e([n]);function x(){return(0,a.jsxs)(i.Html,{lang:"en",children:[a.jsx(i.Head,{}),(0,a.jsxs)("body",{className:(0,n.default)("min-h-screen bg-background font-sans antialiased",d().variable),children:[a.jsx(i.Main,{}),a.jsx(i.NextScript,{})]})]})}n=(u.then?(await u)():u)[0],t()}catch(e){t(e)}})},2785:e=>{e.exports=require("next/dist/compiled/next-server/pages.runtime.prod.js")},6689:e=>{e.exports=require("react")},997:e=>{e.exports=require("react/jsx-runtime")},6593:e=>{e.exports=import("clsx")},1017:e=>{e.exports=require("path")}};var r=require("../webpack-runtime.js");r.C(e);var s=e=>r(r.s=e),t=r.X(0,[665,859],()=>s(7645));module.exports=t})();
