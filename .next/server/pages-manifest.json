@@ -1,7 +1,7 @@
 {
   "/_document": "pages/_document.js",
-  "/contacto": "pages/contacto.js",
   "/about": "pages/about.js",
+  "/contacto": "pages/contacto.js",
   "/galeria/hello": "pages/galeria/hello.js",
   "/": "pages/index.js",
   "/_error": "pages/_error.js",

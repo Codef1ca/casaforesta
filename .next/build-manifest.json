@@ -1,0 +1,57 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-78c92fac7aa8fdd8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/O4TKJoos4w4IE9ZUszyO0/_buildManifest.js",
+    "static/O4TKJoos4w4IE9ZUszyO0/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/chunks/950-a9b0a4ecf6be0ad3.js",
+      "static/chunks/pages/index-24f30bdcaead89bb.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/css/8e7d8c40b1e12ad4.css",
+      "static/chunks/pages/_app-306f5a9186c59dc6.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/chunks/pages/_error-77823ddac6993d35.js"
+    ],
+    "/about": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/chunks/950-a9b0a4ecf6be0ad3.js",
+      "static/chunks/733-b68b99ce1534e839.js",
+      "static/chunks/pages/about-bbff3cc11eb87b86.js"
+    ],
+    "/contacto": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/chunks/950-a9b0a4ecf6be0ad3.js",
+      "static/chunks/733-b68b99ce1534e839.js",
+      "static/chunks/pages/contacto-ceafde71c858478a.js"
+    ],
+    "/galeria/hello": [
+      "static/chunks/webpack-7e0a04d6d1a844f2.js",
+      "static/chunks/framework-ecc4130bc7a58a64.js",
+      "static/chunks/main-364fdecca3e07137.js",
+      "static/chunks/pages/galeria/hello-7525ff7235529c5b.js"
+    ]
+  },
+  "ampFirstPages": []
+}
