@@ -58,8 +58,8 @@ export default function IndexPage() {
             <h4 className={subtitle({ class: "mt-4 font-thin par-color" })}>
             Si querés reservar una habitación, podés hacerlo desde nuestro motor de reservas.
             </h4>
-            <a href="http://casaforesta.reservadirecto.com/lp.html?pos=CasaForesta&lng=es&cur=USD&webcache=off&tag=PmsLink">
-            <Button colorScheme='#5B5745;' size='sm' className="boton-navbar">
+            <a href="https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539">
+            <Button colorScheme='#5B5745;' size='sm' className="boton-navbar2">
           RESERVAR AHORA
           </Button>
           </a>
