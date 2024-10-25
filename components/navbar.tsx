@@ -27,9 +27,11 @@ export const Navbar = () => {
           </NextLink>
 
           <div className="right-links">
+          <a href="https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539">
           <Button colorScheme='#5B5745;' size='sm' className="boton-navbar">
           RESERVAR AHORA
           </Button>
+          </a>
           </div>
         </NavbarContent>
 
@@ -43,7 +45,6 @@ export const Navbar = () => {
               <Link href="/about" className="item-nav-h">SOBRE NOSOTROS</Link>
               <Link href="/galeria" className="item-nav-h">GALERÍA DE FOTOS</Link>
               <Link href="/contacto" className="item-nav-h">CONTACTO</Link>
-              <Link href="/contacto" className="item-nav-h">BOTON</Link>
             </div>
           </NavbarMenuItem>
         </NavbarMenu>

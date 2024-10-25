@@ -5,7 +5,7 @@ export default function App() {
     <div className="max-w-md container-divider">
       <div className="flex h-5 items-center space-x-4 text-small texto-divaider">
         <div>01</div>
-        Pileta climatizada, diversión, relax y recreación en un espacio exclusivo, con acceso todo el año.
+        Contamos con desayuno buffet, elaborado con ingredientes variados y saludables, para comenzar el día con energía y sabor.
       </div>
       <Divider className="my-4 linea" orientation="horizontal"/>
       <div className="flex h-5 items-center space-x-4 text-small texto-divaider">

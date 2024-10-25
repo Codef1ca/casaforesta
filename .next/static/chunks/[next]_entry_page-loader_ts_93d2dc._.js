@@ -1,7 +1,7 @@
 (globalThis.TURBOPACK = globalThis.TURBOPACK || []).push([
-    "static/chunks/[next]_entry_page-loader_ts_93d2dc._.js",
+    "static/chunks/[next]_entry_page-loader_ts_1cedc8._.js",
     {},
-    {"otherChunks":["static/chunks/node_modules_next_dist_ae5fd8._.js","static/chunks/node_modules_react_1cad9b._.js","static/chunks/node_modules_react-dom_cjs_react-dom_development_ab7e07.js","static/chunks/node_modules_react-dom_f14d04._.js","static/chunks/node_modules_bf8359._.js","static/chunks/node_modules_@chakra-ui_styled-system_dist_esm_b5022d._.js","static/chunks/node_modules_d86fd4._.js","static/chunks/[root of the server]__072e93._.js","static/chunks/node_modules_next_dist_pages_6c07c4._.js"],"runtimeModuleIds":["[project]/node_modules/next/dist/compiled/@next/react-refresh-utils/dist/runtime.js [client] (ecmascript)","[project]/node_modules/next/dist/client/next-dev-turbopack.js [client] (ecmascript)","[next]/entry/page-loader.ts { PAGE => \"[project]/pages/index.tsx [client] (ecmascript)\" } [client] (ecmascript)"]}
+    {"otherChunks":["static/chunks/node_modules_next_dist_ae5fd8._.js","static/chunks/node_modules_react_b2385d._.js","static/chunks/node_modules_react-dom_cjs_react-dom_development_ab7e07.js","static/chunks/node_modules_react-dom_f14d04._.js","static/chunks/node_modules_a6e291._.js","static/chunks/[root of the server]__d4035a._.js","static/chunks/node_modules_next_dist_pages_b3ffce._.js"],"runtimeModuleIds":["[project]/node_modules/next/dist/compiled/@next/react-refresh-utils/dist/runtime.js [client] (ecmascript)","[project]/node_modules/next/dist/client/next-dev-turbopack.js [client] (ecmascript)","[next]/entry/page-loader.ts { PAGE => \"[project]/pages/index.tsx [client] (ecmascript)\" } [client] (ecmascript)"]}
 ]);
 (() => {
 if (!Array.isArray(globalThis.TURBOPACK)) {
@@ -1557,4 +1557,4 @@ chunksToRegister.forEach(registerChunk);
 })();
 
 
-//# sourceMappingURL=%5Bnext%5D_entry_page-loader_ts_93d2dc._.js.map
+//# sourceMappingURL=%5Bnext%5D_entry_page-loader_ts_1cedc8._.js.map
