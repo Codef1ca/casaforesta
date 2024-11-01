@@ -802,7 +802,7 @@ function ContactoPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
                                     className: "descripcion-contacto",
-                                    children: "¡Gracias por tu interés en nuestra empresa! Si tenés dudas o consultas, contactate con nosotros por cualquiera de estos medios que estaremos encantados de ayudarte en lo que necesites."
+                                    children: "¡Gracias por tu interés en nuestro hotel! Si tenés dudas o consultas, contactate con nosotros por cualquiera de estos medios que estaremos encantados de ayudarte en lo que necesites."
                                 }, void 0, false, {
                                     fileName: "[project]/pages/contacto/index.tsx",
                                     lineNumber: 14,
@@ -959,7 +959,7 @@ function ContactoPage() {
                                                             columnNumber: 13
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("a", {
-                                                            href: "https://maps.app.goo.gl/96S1eo6sDTV3C7CP7",
+                                                            href: "https://www.google.com/maps/place/Casa+Foresta+Hotel+%26+Apart/@-24.7547948,-65.395475,15z/data=!4m9!3m8!1s0x941bc33c482dc2e5:0x78335c8c29ba1fa!5m2!4m1!1i2!8m2!3d-24.7547948!4d-65.395475!16s%2Fg%2F11wh_j301f?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D",
                                                             className: "contacto-pppp",
                                                             children: "Ver ubicación en maps"
                                                         }, void 0, false, {
@@ -1013,14 +1013,6 @@ function ContactoPage() {
                         }, void 0, false, {
                             fileName: "[project]/pages/contacto/index.tsx",
                             lineNumber: 76,
-                            columnNumber: 9
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
-                            className: "p-tarjeton",
-                            children: "Completá el formulario reserva y disfrutá de tu estadía en casa foresta"
-                        }, void 0, false, {
-                            fileName: "[project]/pages/contacto/index.tsx",
-                            lineNumber: 77,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("a", {

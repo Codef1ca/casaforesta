@@ -1865,7 +1865,7 @@ function CarouselSize() {
         },
         {
             imgSrc: "/assets/carru3-3.png",
-            title: "DEPTOS. FORESTA",
+            title: "DEPTO. FORESTA",
             description: "Vistas a nuestros cerros. Superficie de 50 m2 con capacidad para 5 pax en dos dormitorios, equipados con cama King + 2 Twin + 1 sofá cama. Dispone de microondas y vajilla."
         },
         {

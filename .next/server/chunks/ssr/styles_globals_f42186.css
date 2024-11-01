@@ -4013,6 +4013,7 @@ body {
   text-decoration: underline #5b5745;
   font-size: 12px;
   display: flex;
+  margin-left: -5px;
 }
 
 .contacto-ppppp {
@@ -4021,7 +4022,6 @@ body {
   text-decoration: underline #f4f1ec;
   font-size: 12px;
   display: flex;
-  margin-left: -5px;
 }
 
 .contenedor-pos-div2 {
@@ -4183,14 +4183,16 @@ body {
 
 .titulo-ultimo {
   font-weight: 500;
-  width: 359px;
-  font-size: 12px;
+  width: 40%;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .txt-ultimo {
-  font-size: 11px;
+  font-size: 14px;
   font-weight: 300;
   line-height: 14px;
+  width: 56%;
 }
 
 .txt-ultimo2 {
@@ -4219,6 +4221,7 @@ body {
 
 .titulo-container-ultimo {
   color: #5b5745;
+  font-size: 18px;
 }
 
 .menu-hamb {
@@ -5161,6 +5164,13 @@ body {
     margin-top: 43px;
     gap: 36px;
   }
+
+  .titulo-ultimo {
+    font-weight: 500;
+    width: 78%;
+    font-size: 16px;
+    line-height: 20px;
+  }
 }
 
 @media (width <= 603px) {
@@ -5328,6 +5338,7 @@ body {
   .titulo-container-ultimo {
     width: 240px;
     text-align: center;
+    font-size: 16px;
   }
 }
 
