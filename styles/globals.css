@@ -52,6 +52,7 @@ body{
     color: #F4F1EC !important;
     font-weight: 300 !important;
     border-radius: 50px !important;
+    text-decoration: underline;
   }
 
   .boton-navbar2{
@@ -59,6 +60,7 @@ body{
     font-weight: 300 !important;
     border-radius: 50px !important;
     margin-top: 30px;
+    text-decoration: underline;
   }
 
   .foto-home{
@@ -276,28 +278,43 @@ body{
 }
 
 .contacto-ppp{
-  color: #919466;
+  background-color: #919466;
   text-decoration: underline  #919466;
-  font-size: 15px;
+  font-size: 13px;
   display: flex;
   margin-bottom: 50px;
+  color: #F4F1EC !important;
+  font-weight: 300 !important;
+  border-radius: 50px !important;
+  text-decoration: underline;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .contacto-pppp{
   color: #919466;
-  text-decoration: underline  #5B5745;
+  text-decoration: underline  #919466;
   font-size: 12px;
   display: flex;
   margin-left: -5px;
 }
 
 .contacto-ppppp{
-  color: #F4F1EC;
-  text-decoration: underline  #F4F1EC;
-  font-size: 12px;
+  background-color: #919466;
+  text-decoration: underline  #919466;
+  font-size: 13px;
   display: flex;
-
-
+  margin-left: -5px;
+  color: #F4F1EC !important;
+  font-weight: 300 !important;
+  border-radius: 50px !important;
+  text-decoration: underline;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .contenedor-pos-div2{
@@ -471,7 +488,7 @@ width: 80%;
 }
 
 .txt-ultimo2{
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
   margin-left: 31px;
@@ -479,15 +496,18 @@ width: 80%;
 }
 
 .txt-ultimo3{
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
   margin-left: 84px;
   color: #5B5745;
+  margin-left: 100px;
 }
 
+
+
 .txt-ultimo4{
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
   color: #5B5745;
@@ -873,6 +893,14 @@ width: 80%;
 }
 .container-nosotros{
   margin-top: -630px;
+}
+.contenedor-texto-ultimodiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #919466;
+  gap: 0px;
 }
   }
 

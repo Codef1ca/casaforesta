@@ -458,7 +458,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("a", {
                                 href: "https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__esm__external__$40$chakra$2d$ui$2f$react__["Button"], {
-                                    colorScheme: "#5B5745;",
+                                    colorScheme: "#919466;",
                                     size: "sm",
                                     className: "boton-navbar",
                                     children: "RESERVAR AHORA"
@@ -1826,7 +1826,7 @@ function IndexPage() {
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                            className: "max-w-xl contenedor-ultimodivider",
+                            className: "max-w-xxl contenedor-ultimodivider",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
                                     className: "space-y-1 contenedor-texto-ultimodiv",

@@ -30,7 +30,9 @@ export default function ContactoPage() {
           className="no-rounded"
           />
           </a>
+          <a href="mailto:reservas@casaforesta.com.ar">
             <p className="text-small txt-ultimo2">reservas@casaforesta.com.ar</p>
+          </a>
           
           </div>
           <Divider className="my-4" />
@@ -41,11 +43,12 @@ export default function ContactoPage() {
           height={15}
           alt="NextUI hero Image with delay"
           src="/assets/telefono-casa.png"
-          className="no-rounded"
+          className="no-rounded telefono"
           />
           </a>
+          <a href="https://wa.me/5493875888611">
             <p className="text-small txt-ultimo3">+54 9 387 5888611</p>
-          
+          </a>
           </div>
           <Divider className="my-4" />
           <div className="space-y-1 contenedor-texto-ultimodiv">

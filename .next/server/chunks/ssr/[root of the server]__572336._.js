@@ -458,7 +458,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("a", {
                                 href: "https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__esm__external__$40$chakra$2d$ui$2f$react__["Button"], {
-                                    colorScheme: "#5B5745;",
+                                    colorScheme: "#919466;",
                                     size: "sm",
                                     className: "boton-navbar",
                                     children: "RESERVAR AHORA"
@@ -888,17 +888,17 @@ function NosPage() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
                     className: "hero-nosotros",
-                    children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$animacion$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                        delay: 0.1,
-                        children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                            className: "texto-hero-galeria",
+                    children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
+                        className: "texto-hero-galeria",
+                        children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$animacion$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                            delay: 0.1,
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h1", {
                                     className: "titulo-galeria",
                                     children: "Sobre nosotros"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/about/index.tsx",
-                                    lineNumber: 18,
+                                    lineNumber: 19,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
@@ -906,19 +906,19 @@ function NosPage() {
                                     children: "CONOCÉ CASA FORESTA"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/about/index.tsx",
-                                    lineNumber: 19,
+                                    lineNumber: 20,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/pages/about/index.tsx",
-                            lineNumber: 17,
+                            lineNumber: 18,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/pages/about/index.tsx",
-                        lineNumber: 16,
-                        columnNumber: 9
+                        lineNumber: 17,
+                        columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/pages/about/index.tsx",
@@ -938,7 +938,7 @@ function NosPage() {
                                         children: "Casa Foresta se gesta con una impronta familiar, con el hermoso desafío de crear un espacio que ofrezca una experiencia única y acogedora en el corazón de Salta."
                                     }, void 0, false, {
                                         fileName: "[project]/pages/about/index.tsx",
-                                        lineNumber: 27,
+                                        lineNumber: 29,
                                         columnNumber: 10
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h2", {
@@ -946,7 +946,7 @@ function NosPage() {
                                         children: "Calidad, diseño y honestidad se destacan como corazón del proyecto, buscando transmitir una hospitalidad que supere expectativas y quede impregnada en la memoria afectiva de cada uno de nuestros visitantes. "
                                     }, void 0, false, {
                                         fileName: "[project]/pages/about/index.tsx",
-                                        lineNumber: 28,
+                                        lineNumber: 30,
                                         columnNumber: 10
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h2", {
@@ -954,18 +954,18 @@ function NosPage() {
                                         children: "Porque no somos un lugar de paso. Somos una casa a la que siempre se quiere volver."
                                     }, void 0, false, {
                                         fileName: "[project]/pages/about/index.tsx",
-                                        lineNumber: 29,
+                                        lineNumber: 31,
                                         columnNumber: 10
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/about/index.tsx",
-                                lineNumber: 26,
+                                lineNumber: 28,
                                 columnNumber: 11
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/pages/about/index.tsx",
-                            lineNumber: 25,
+                            lineNumber: 27,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
@@ -973,7 +973,7 @@ function NosPage() {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$divider2$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                                     fileName: "[project]/pages/about/index.tsx",
-                                    lineNumber: 34,
+                                    lineNumber: 36,
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$animacion$2e$tsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
@@ -986,24 +986,24 @@ function NosPage() {
                                         className: "no-rounded img-larga"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/about/index.tsx",
-                                        lineNumber: 36,
+                                        lineNumber: 38,
                                         columnNumber: 11
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/pages/about/index.tsx",
-                                    lineNumber: 35,
+                                    lineNumber: 37,
                                     columnNumber: 11
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/pages/about/index.tsx",
-                            lineNumber: 33,
+                            lineNumber: 35,
                             columnNumber: 10
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/pages/about/index.tsx",
-                    lineNumber: 24,
+                    lineNumber: 26,
                     columnNumber: 9
                 }, this)
             ]

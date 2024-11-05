@@ -782,7 +782,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 href: "https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$chakra$2d$ui$2f$react$2f$dist$2f$esm$2f$button$2f$button$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__["Button"], {
-                                    colorScheme: "#5B5745;",
+                                    colorScheme: "#919466;",
                                     size: "sm",
                                     className: "boton-navbar",
                                     children: "RESERVAR AHORA"
@@ -1178,13 +1178,20 @@ function ContactoPage() {
                                                     lineNumber: 24,
                                                     columnNumber: 11
                                                 }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-small txt-ultimo2",
-                                                    children: "reservas@casaforesta.com.ar"
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "mailto:reservas@casaforesta.com.ar",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-small txt-ultimo2",
+                                                        children: "reservas@casaforesta.com.ar"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/pages/contacto/index.tsx",
+                                                        lineNumber: 34,
+                                                        columnNumber: 13
+                                                    }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/contacto/index.tsx",
                                                     lineNumber: 33,
-                                                    columnNumber: 13
+                                                    columnNumber: 11
                                                 }, this)
                                             ]
                                         }, void 0, true, {
@@ -1196,7 +1203,7 @@ function ContactoPage() {
                                             className: "my-4"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/contacto/index.tsx",
-                                            lineNumber: 36,
+                                            lineNumber: 38,
                                             columnNumber: 11
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1209,36 +1216,43 @@ function ContactoPage() {
                                                         height: 15,
                                                         alt: "NextUI hero Image with delay",
                                                         src: "/assets/telefono-casa.png",
-                                                        className: "no-rounded"
+                                                        className: "no-rounded telefono"
                                                     }, void 0, false, {
                                                         fileName: "[project]/pages/contacto/index.tsx",
-                                                        lineNumber: 39,
+                                                        lineNumber: 41,
                                                         columnNumber: 11
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/contacto/index.tsx",
-                                                    lineNumber: 38,
+                                                    lineNumber: 40,
                                                     columnNumber: 11
                                                 }, this),
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                    className: "text-small txt-ultimo3",
-                                                    children: "+54 9 387 5888611"
+                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                    href: "https://wa.me/5493875888611",
+                                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                        className: "text-small txt-ultimo3",
+                                                        children: "+54 9 387 5888611"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/pages/contacto/index.tsx",
+                                                        lineNumber: 50,
+                                                        columnNumber: 13
+                                                    }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/contacto/index.tsx",
-                                                    lineNumber: 47,
-                                                    columnNumber: 13
+                                                    lineNumber: 49,
+                                                    columnNumber: 11
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/contacto/index.tsx",
-                                            lineNumber: 37,
+                                            lineNumber: 39,
                                             columnNumber: 11
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$divider$2f$dist$2f$chunk$2d$44JHHBS2$2e$mjs__$5b$client$5d$__$28$ecmascript$29$__$3c$export__divider_default__as__Divider$3e$__["Divider"], {
                                             className: "my-4"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/contacto/index.tsx",
-                                            lineNumber: 50,
+                                            lineNumber: 53,
                                             columnNumber: 11
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1254,12 +1268,12 @@ function ContactoPage() {
                                                         className: "no-rounded"
                                                     }, void 0, false, {
                                                         fileName: "[project]/pages/contacto/index.tsx",
-                                                        lineNumber: 53,
+                                                        lineNumber: 56,
                                                         columnNumber: 11
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/contacto/index.tsx",
-                                                    lineNumber: 52,
+                                                    lineNumber: 55,
                                                     columnNumber: 11
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1270,7 +1284,7 @@ function ContactoPage() {
                                                             children: "Los Durazneros 1355, Salta C.P.4400"
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/contacto/index.tsx",
-                                                            lineNumber: 62,
+                                                            lineNumber: 65,
                                                             columnNumber: 13
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1279,19 +1293,19 @@ function ContactoPage() {
                                                             children: "Ver ubicación en maps"
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/contacto/index.tsx",
-                                                            lineNumber: 63,
+                                                            lineNumber: 66,
                                                             columnNumber: 13
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/pages/contacto/index.tsx",
-                                                    lineNumber: 61,
+                                                    lineNumber: 64,
                                                     columnNumber: 11
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/pages/contacto/index.tsx",
-                                            lineNumber: 51,
+                                            lineNumber: 54,
                                             columnNumber: 11
                                         }, this)
                                     ]
@@ -1327,7 +1341,7 @@ function ContactoPage() {
                             children: "¿QUERÉS RESERVAR UNA HABITACIÓN?"
                         }, void 0, false, {
                             fileName: "[project]/pages/contacto/index.tsx",
-                            lineNumber: 76,
+                            lineNumber: 79,
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -1336,18 +1350,18 @@ function ContactoPage() {
                             children: "Ir a reservar ahora"
                         }, void 0, false, {
                             fileName: "[project]/pages/contacto/index.tsx",
-                            lineNumber: 78,
+                            lineNumber: 81,
                             columnNumber: 9
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/pages/contacto/index.tsx",
-                    lineNumber: 75,
+                    lineNumber: 78,
                     columnNumber: 7
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/pages/contacto/index.tsx",
-                lineNumber: 74,
+                lineNumber: 77,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1357,12 +1371,12 @@ function ContactoPage() {
                     orientation: "horizontal"
                 }, void 0, false, {
                     fileName: "[project]/pages/contacto/index.tsx",
-                    lineNumber: 84,
+                    lineNumber: 87,
                     columnNumber: 8
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/pages/contacto/index.tsx",
-                lineNumber: 83,
+                lineNumber: 86,
                 columnNumber: 7
             }, this)
         ]

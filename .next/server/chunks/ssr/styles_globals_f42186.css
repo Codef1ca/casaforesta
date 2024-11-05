@@ -3770,6 +3770,7 @@ body {
 }
 
 .boton-navbar {
+  text-decoration: underline;
   color: #f4f1ec !important;
   font-weight: 300 !important;
   border-radius: 50px !important;
@@ -3777,6 +3778,7 @@ body {
 
 .boton-navbar2 {
   margin-top: 30px;
+  text-decoration: underline;
   color: #f4f1ec !important;
   font-weight: 300 !important;
   border-radius: 50px !important;
@@ -3999,29 +4001,46 @@ body {
 }
 
 .contacto-ppp {
-  color: #919466;
+  background-color: #919466;
   -webkit-text-decoration: underline #919466;
   text-decoration: underline #919466;
-  font-size: 15px;
+  font-size: 13px;
   display: flex;
   margin-bottom: 50px;
+  text-decoration: underline;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #f4f1ec !important;
+  font-weight: 300 !important;
+  border-radius: 50px !important;
 }
 
 .contacto-pppp {
   color: #919466;
-  -webkit-text-decoration: underline #5b5745;
-  text-decoration: underline #5b5745;
+  -webkit-text-decoration: underline #919466;
+  text-decoration: underline #919466;
   font-size: 12px;
   display: flex;
   margin-left: -5px;
 }
 
 .contacto-ppppp {
-  color: #f4f1ec;
-  -webkit-text-decoration: underline #f4f1ec;
-  text-decoration: underline #f4f1ec;
-  font-size: 12px;
+  background-color: #919466;
+  -webkit-text-decoration: underline #919466;
+  text-decoration: underline #919466;
+  font-size: 13px;
   display: flex;
+  margin-left: -5px;
+  text-decoration: underline;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #f4f1ec !important;
+  font-weight: 300 !important;
+  border-radius: 50px !important;
 }
 
 .contenedor-pos-div2 {
@@ -4196,7 +4215,7 @@ body {
 }
 
 .txt-ultimo2 {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
   margin-left: 31px;
@@ -4204,15 +4223,15 @@ body {
 }
 
 .txt-ultimo3 {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
-  margin-left: 84px;
   color: #5b5745;
+  margin-left: 2px;
 }
 
 .txt-ultimo4 {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 300;
   line-height: 14px;
   color: #5b5745;
@@ -4304,6 +4323,13 @@ body {
   justify-content: center;
   color: #f4f1ec;
   gap: 20px;
+}
+
+.container-text-etc {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
 @media (width <= 1711px) {
@@ -4598,6 +4624,15 @@ body {
 
   .container-nosotros {
     margin-top: -630px;
+  }
+
+  .contenedor-texto-ultimodiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: #919466;
+    gap: 0;
   }
 }
 
@@ -5339,6 +5374,13 @@ body {
     width: 240px;
     text-align: center;
     font-size: 16px;
+  }
+
+  .titulo-ultimo {
+    font-weight: 500;
+    width: 78%;
+    line-height: 20px;
+    font-size: 14px !important;
   }
 }
 

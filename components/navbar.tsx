@@ -28,7 +28,7 @@ export const Navbar = () => {
 
           <div className="right-links">
           <a href="https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539">
-          <Button colorScheme='#5B5745;' size='sm' className="boton-navbar">
+          <Button colorScheme='#919466;' size='sm' className="boton-navbar">
           RESERVAR AHORA
           </Button>
           </a>

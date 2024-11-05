@@ -458,7 +458,7 @@ const Navbar = ()=>{
                             children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("a", {
                                 href: "https://booking.roomcloud.net/be/se2/hotel.jsp?hotel=19539",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__esm__external__$40$chakra$2d$ui$2f$react__["Button"], {
-                                    colorScheme: "#5B5745;",
+                                    colorScheme: "#919466;",
                                     size: "sm",
                                     className: "boton-navbar",
                                     children: "RESERVAR AHORA"
@@ -731,7 +731,7 @@ function App() {
                         lineNumber: 7,
                         columnNumber: 9
                     }, this),
-                    "Pileta climatizada, diversión, relax y recreación en un espacio exclusivo, con acceso todo el año."
+                    "Contamos con desayuno buffet, elaborado con ingredientes variados y saludables, para comenzar el día con energía y sabor."
                 ]
             }, void 0, true, {
                 fileName: "[project]/components/divider.jsx",

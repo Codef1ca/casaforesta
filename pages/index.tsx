@@ -60,23 +60,33 @@
        <Animacion delay={0.3}>
        <div className="ultimo-divider">
         <h2 className="titulo-container-ultimo">SERVICIOS QUE ENRIQUECEN CADA MOMENTO</h2>
-       <div className="max-w-xl contenedor-ultimodivider">
-          <div className="space-y-1 contenedor-texto-ultimodiv">
+       <div className="">
+          <div className="contenedor-texto-ultimodiv">
             <h4 className="text-medium font-medium titulo-ultimo">DESAYUNO BUFFET</h4>
             <p className="text-small txt-ultimo">Con ingredientes variados y saludables, para comenzar el día con energía y sabor. </p>
           </div>
           <Divider className="my-4" />
-          <div className="space-y-1 contenedor-texto-ultimodiv">
+          <div className="contenedor-texto-ultimodiv">
             <h4 className="text-medium font-medium titulo-ultimo">PILETA CLIMATIZADA</h4>
             <p className="text-small txt-ultimo">Diversión, relax y recreación en un espacio exclusivo, con acceso todo el año.</p>
           </div>
           <Divider className="my-4" />
-          <div className="space-y-1 contenedor-texto-ultimodiv">
+          <div className="contenedor-texto-ultimodiv">
             <h4 className="text-medium font-medium titulo-ultimo">ESTACIONAMIENTO INCLUIDO</h4>
             <p className="text-small txt-ultimo">Tranquilidad y comodidad que mejora tu viaje, al tener tu vehículo más seguro y disponible.</p>
           </div>
           <Divider className="my-4" />
-          <div className="space-y-1 contenedor-texto-ultimodiv">
+          <div className="contenedor-texto-ultimodiv">
+            <h4 className="text-medium font-medium titulo-ultimo">GIMNASIO</h4>
+            <p className="text-small txt-ultimo">Contamos con un gimnasio con caminadora, mancuernas y bicicleta fija, para que puedas seguir en movimiento cuando vos elijas.</p>
+          </div>
+          <Divider className="my-4" />
+          <div className="contenedor-texto-ultimodiv">
+            <h4 className="text-medium font-medium titulo-ultimo">PLAYROOM</h4>
+            <p className="text-small txt-ultimo">para garantizar diversión y contención también para los más chicos.</p>
+          </div>
+          <Divider className="my-4" />
+          <div className="contenedor-texto-ultimodiv">
             <h4 className="text-medium font-medium titulo-ultimo">AIRE ACONDICIONADO</h4>
             <p className="text-small txt-ultimo">En todos los ambientes del hotel vas a encontrar el clima ideal, para gozar de tu estadía de principio a fin.</p>
           </div>
