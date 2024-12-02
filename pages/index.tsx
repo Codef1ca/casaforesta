@@ -83,7 +83,7 @@
           <Divider className="my-4" />
           <div className="contenedor-texto-ultimodiv">
             <h4 className="text-medium font-medium titulo-ultimo">PLAYROOM</h4>
-            <p className="text-small txt-ultimo">para garantizar diversión y contención también para los más chicos.</p>
+            <p className="text-small txt-ultimo">Para garantizar diversión y contención también para los más chicos.</p>
           </div>
           <Divider className="my-4" />
           <div className="contenedor-texto-ultimodiv">

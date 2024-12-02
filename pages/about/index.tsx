@@ -27,7 +27,7 @@ export default function NosPage() {
         <Animacion delay={0.3}>
           <div className="primercontenedor-about">
          <h2 className="texto-about">Casa Foresta se gesta con una impronta familiar, con el hermoso desafío de crear un espacio que ofrezca una experiencia única y acogedora en el corazón de Salta.</h2>
-         <h2 className="texto-about">Calidad, diseño y honestidad se destacan como corazón del proyecto, buscando transmitir una hospitalidad que supere expectativas y quede impregnada en la memoria afectiva de cada uno de nuestros visitantes. </h2>
+         <h2 className="texto-about">Calidad, diseño y honestidad se destacan como centro del proyecto, buscando transmitir una hospitalidad que supere expectativas y quede impregnada en la memoria afectiva de cada uno de nuestros visitantes. </h2>
          <h2 className="texto-about">Porque no somos un lugar de paso. Somos una casa a la que siempre se quiere volver.</h2>
          </div>
          </Animacion>

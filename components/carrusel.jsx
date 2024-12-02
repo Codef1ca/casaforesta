@@ -10,9 +10,10 @@ export function CarouselDemo() {
 
   // Lista de imágenes para el carrusel
   const images = [
-    "/assets/carruselhero1.png",
-    "/assets/carruselhero2.png",
-    "/assets/carruselhero3.png",
+    "/assets/carru-cambio1.png",
+    "/assets/carru-cambio2.png",
+    "/assets/carru-cambio3.png",
+    "/assets/carru-cambio4.png",
   ];
 
   // Autoplay con useEffect

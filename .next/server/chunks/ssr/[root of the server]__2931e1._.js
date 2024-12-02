@@ -1231,9 +1231,10 @@ function CarouselDemo() {
     const intervalTime = 4000; // Tiempo en milisegundos para el autoplay (3 segundos)
     // Lista de imágenes para el carrusel
     const images = [
-        "/assets/carruselhero1.png",
-        "/assets/carruselhero2.png",
-        "/assets/carruselhero3.png"
+        "/assets/carru-cambio1.png",
+        "/assets/carru-cambio2.png",
+        "/assets/carru-cambio3.png",
+        "/assets/carru-cambio4.png"
     ];
     // Autoplay con useEffect
     __TURBOPACK__commonjs__external__react__.useEffect(()=>{
@@ -1260,32 +1261,32 @@ function CarouselDemo() {
                                 className: "w-full h-606 object-cover"
                             }, void 0, false, {
                                 fileName: "[project]/components/carrusel.jsx",
-                                lineNumber: 36,
+                                lineNumber: 37,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/carrusel.jsx",
-                            lineNumber: 34,
+                            lineNumber: 35,
                             columnNumber: 13
                         }, this)
                     }, index, false, {
                         fileName: "[project]/components/carrusel.jsx",
-                        lineNumber: 33,
+                        lineNumber: 34,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/carrusel.jsx",
-                lineNumber: 31,
+                lineNumber: 32,
                 columnNumber: 7
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/carrusel.jsx",
-            lineNumber: 30,
+            lineNumber: 31,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/carrusel.jsx",
-        lineNumber: 29,
+        lineNumber: 30,
         columnNumber: 5
     }, this);
 }
@@ -1826,10 +1827,10 @@ function IndexPage() {
                             columnNumber: 9
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                            className: "max-w-xxl contenedor-ultimodivider",
+                            className: "",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                                    className: "space-y-1 contenedor-texto-ultimodiv",
+                                    className: "contenedor-texto-ultimodiv",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
                                             className: "text-medium font-medium titulo-ultimo",
@@ -1861,7 +1862,7 @@ function IndexPage() {
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                                    className: "space-y-1 contenedor-texto-ultimodiv",
+                                    className: "contenedor-texto-ultimodiv",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
                                             className: "text-medium font-medium titulo-ultimo",
@@ -1893,7 +1894,7 @@ function IndexPage() {
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                                    className: "space-y-1 contenedor-texto-ultimodiv",
+                                    className: "contenedor-texto-ultimodiv",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
                                             className: "text-medium font-medium titulo-ultimo",
@@ -1925,11 +1926,11 @@ function IndexPage() {
                                     columnNumber: 11
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
-                                    className: "space-y-1 contenedor-texto-ultimodiv",
+                                    className: "contenedor-texto-ultimodiv",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
                                             className: "text-medium font-medium titulo-ultimo",
-                                            children: "AIRE ACONDICIONADO"
+                                            children: "GIMNASIO"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.tsx",
                                             lineNumber: 80,
@@ -1937,7 +1938,7 @@ function IndexPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
                                             className: "text-small txt-ultimo",
-                                            children: "En todos los ambientes del hotel vas a encontrar el clima ideal, para gozar de tu estadía de principio a fin."
+                                            children: "Contamos con un gimnasio con caminadora, mancuernas y bicicleta fija, para que puedas seguir en movimiento cuando vos elijas."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.tsx",
                                             lineNumber: 81,
@@ -1947,6 +1948,70 @@ function IndexPage() {
                                 }, void 0, true, {
                                     fileName: "[project]/pages/index.tsx",
                                     lineNumber: 79,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__esm__external__$40$nextui$2d$org$2f$react__["Divider"], {
+                                    className: "my-4"
+                                }, void 0, false, {
+                                    fileName: "[project]/pages/index.tsx",
+                                    lineNumber: 83,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
+                                    className: "contenedor-texto-ultimodiv",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
+                                            className: "text-medium font-medium titulo-ultimo",
+                                            children: "PLAYROOM"
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/index.tsx",
+                                            lineNumber: 85,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
+                                            className: "text-small txt-ultimo",
+                                            children: "para garantizar diversión y contención también para los más chicos."
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/index.tsx",
+                                            lineNumber: 86,
+                                            columnNumber: 13
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/pages/index.tsx",
+                                    lineNumber: 84,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])(__TURBOPACK__esm__external__$40$nextui$2d$org$2f$react__["Divider"], {
+                                    className: "my-4"
+                                }, void 0, false, {
+                                    fileName: "[project]/pages/index.tsx",
+                                    lineNumber: 88,
+                                    columnNumber: 11
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("div", {
+                                    className: "contenedor-texto-ultimodiv",
+                                    children: [
+                                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("h4", {
+                                            className: "text-medium font-medium titulo-ultimo",
+                                            children: "AIRE ACONDICIONADO"
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/index.tsx",
+                                            lineNumber: 90,
+                                            columnNumber: 13
+                                        }, this),
+                                        /*#__PURE__*/ (0, __TURBOPACK__commonjs__external__react$2f$jsx$2d$dev$2d$runtime__["jsxDEV"])("p", {
+                                            className: "text-small txt-ultimo",
+                                            children: "En todos los ambientes del hotel vas a encontrar el clima ideal, para gozar de tu estadía de principio a fin."
+                                        }, void 0, false, {
+                                            fileName: "[project]/pages/index.tsx",
+                                            lineNumber: 91,
+                                            columnNumber: 13
+                                        }, this)
+                                    ]
+                                }, void 0, true, {
+                                    fileName: "[project]/pages/index.tsx",
+                                    lineNumber: 89,
                                     columnNumber: 11
                                 }, this)
                             ]
@@ -1973,12 +2038,12 @@ function IndexPage() {
                     orientation: "horizontal"
                 }, void 0, false, {
                     fileName: "[project]/pages/index.tsx",
-                    lineNumber: 87,
+                    lineNumber: 97,
                     columnNumber: 8
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/pages/index.tsx",
-                lineNumber: 86,
+                lineNumber: 96,
                 columnNumber: 8
             }, this)
         ]

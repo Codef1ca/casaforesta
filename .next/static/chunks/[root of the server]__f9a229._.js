@@ -1277,7 +1277,7 @@ function GalePage() {
                                             width: 450,
                                             height: 600,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria1.png",
+                                            src: "/assets/galeria-c1.png",
                                             className: "no-rounded img-larga"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1297,7 +1297,7 @@ function GalePage() {
                                             width: 450,
                                             height: 600,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria2.png",
+                                            src: "/assets/galeria-c2.png",
                                             className: "no-rounded img-larga"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1308,7 +1308,7 @@ function GalePage() {
                                             width: 450,
                                             height: 600,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria3.png",
+                                            src: "/assets/galeria-c3.png",
                                             className: "no-rounded img-larga"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1336,7 +1336,7 @@ function GalePage() {
                                         width: 1000,
                                         height: 450,
                                         alt: "NextUI hero Image with delay",
-                                        src: "/assets/galeria4.png",
+                                        src: "/assets/galeria-c4.png",
                                         className: "no-rounded img-ancha"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/galeria/index.tsx",
@@ -1355,7 +1355,7 @@ function GalePage() {
                                             width: 450,
                                             height: 300,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria5.png",
+                                            src: "/assets/galeria-c5.png",
                                             className: "no-rounded img-corta"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1366,7 +1366,7 @@ function GalePage() {
                                             width: 450,
                                             height: 300,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria6.png",
+                                            src: "/assets/galeria-c6.png",
                                             className: "no-rounded img-corta"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1394,7 +1394,7 @@ function GalePage() {
                                         width: 1000,
                                         height: 550,
                                         alt: "NextUI hero Image with delay",
-                                        src: "/assets/galeria7.png",
+                                        src: "/assets/galeria-c7.png",
                                         className: "no-rounded img-ancha"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/galeria/index.tsx",
@@ -1413,7 +1413,7 @@ function GalePage() {
                                             width: 450,
                                             height: 600,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria8.png",
+                                            src: "/assets/galeria-c8.png",
                                             className: "no-rounded img-larga"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1424,7 +1424,7 @@ function GalePage() {
                                             width: 450,
                                             height: 600,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria9.png",
+                                            src: "/assets/galeria-c9.png",
                                             className: "no-rounded img-larga"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1452,7 +1452,7 @@ function GalePage() {
                                         width: 1000,
                                         height: 450,
                                         alt: "NextUI hero Image with delay",
-                                        src: "/assets/galeria10.png",
+                                        src: "/assets/galeria-c10.png",
                                         className: "no-rounded img-ancha"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/galeria/index.tsx",
@@ -1471,7 +1471,7 @@ function GalePage() {
                                             width: 450,
                                             height: 300,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria11.png",
+                                            src: "/assets/galeria-c11.png",
                                             className: "no-rounded img-corta"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",
@@ -1482,7 +1482,7 @@ function GalePage() {
                                             width: 450,
                                             height: 300,
                                             alt: "NextUI hero Image with delay",
-                                            src: "/assets/galeria12.png",
+                                            src: "/assets/galeria-c12.png",
                                             className: "no-rounded img-corta"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/galeria/index.tsx",

@@ -1590,9 +1590,10 @@ function CarouselDemo() {
     const intervalTime = 4000; // Tiempo en milisegundos para el autoplay (3 segundos)
     // Lista de imágenes para el carrusel
     const images = [
-        "/assets/carruselhero1.png",
-        "/assets/carruselhero2.png",
-        "/assets/carruselhero3.png"
+        "/assets/carru-cambio1.png",
+        "/assets/carru-cambio2.png",
+        "/assets/carru-cambio3.png",
+        "/assets/carru-cambio4.png"
     ];
     // Autoplay con useEffect
     __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__.useEffect(()=>{
@@ -1619,32 +1620,32 @@ function CarouselDemo() {
                                 className: "w-full h-606 object-cover"
                             }, void 0, false, {
                                 fileName: "[project]/components/carrusel.jsx",
-                                lineNumber: 36,
+                                lineNumber: 37,
                                 columnNumber: 15
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/carrusel.jsx",
-                            lineNumber: 34,
+                            lineNumber: 35,
                             columnNumber: 13
                         }, this)
                     }, index, false, {
                         fileName: "[project]/components/carrusel.jsx",
-                        lineNumber: 33,
+                        lineNumber: 34,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/components/carrusel.jsx",
-                lineNumber: 31,
+                lineNumber: 32,
                 columnNumber: 7
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/carrusel.jsx",
-            lineNumber: 30,
+            lineNumber: 31,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/carrusel.jsx",
-        lineNumber: 29,
+        lineNumber: 30,
         columnNumber: 5
     }, this);
 }
@@ -1671,10 +1672,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$animacion$2e$t
 ;
 function CarouselDemo2() {
     const images = [
-        "/assets/carru1.png",
-        "/assets/carru2.png",
-        "/assets/carru3.png",
-        "/assets/carru4.png"
+        "/assets/carru2-cambio1.png",
+        "/assets/carru2-cambio2.png",
+        "/assets/carru3-cambio3.png",
+        "/assets/carru4-cambio4.png"
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$carousel$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["Carousel"], {
         className: "w-full max-w-2xl carru",
@@ -2325,7 +2326,7 @@ function IndexPage() {
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             className: "text-small txt-ultimo",
-                                            children: "para garantizar diversión y contención también para los más chicos."
+                                            children: "Para garantizar diversión y contención también para los más chicos."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.tsx",
                                             lineNumber: 86,

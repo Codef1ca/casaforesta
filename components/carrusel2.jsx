@@ -4,10 +4,10 @@ import Animacion from "@/components/animacion"
 
 export function CarouselDemo2() {
   const images = [
-    "/assets/carru1.png",
-    "/assets/carru2.png",
-    "/assets/carru3.png",
-    "/assets/carru4.png",
+    "/assets/carru2-cambio1.png",
+    "/assets/carru2-cambio2.png",
+    "/assets/carru3-cambio3.png",
+    "/assets/carru4-cambio4.png",
   ];
 
   return (
